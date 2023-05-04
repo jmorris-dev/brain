@@ -25,7 +25,7 @@ This Software License Agreement (the "Agreement") is entered into as of the Effe
 
 3. Revenue Share
 
-3.1 In consideration of the rights granted under this Agreement, the Licensee shall pay the Licensor a revenue share equal to ten percent (10%) of the Licensee's App-Derived Revenue (the "Revenue Share"). The Revenue Share shall be payable in Bitcoin to the following Bitcoin address specified by the Licensor: [Licensor's Bitcoin address].
+3.1 In consideration of the rights granted under this Agreement, the Licensee shall pay the Licensor a revenue share equal to ten percent (10%) of the Licensee's App-Derived Revenue (the "Revenue Share"). The Revenue Share shall be payable in Bitcoin to the following Bitcoin address specified by the Licensor: 1GjfYm1pKjcbEvSt19YC3vqhrRF2jjWRQC.
 
 3.2 The Licensee shall make payment of the Revenue Share on a monthly basis, within thirty (30) days after the end of each calendar month during which any App-Derived Revenue is earned.
 
