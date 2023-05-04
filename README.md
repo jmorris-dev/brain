@@ -1,5 +1,5 @@
 # brain
-An AI with REPL and browser access, using pinecone for memory. Just add your OpenAI and Pinecone keys to brain.py
+An AI with REPL and lynx browser access, using pinecone for memory. Just add your OpenAI and Pinecone keys to brain.py
 
 SOFTWARE LICENSE AGREEMENT
 
